@@ -1,10 +1,20 @@
-# Group-5
+CSE 299: Junior Design Project
 
-1521402642	Mousfiqul Islam Khan	mousfiqul.khan@northsouth.edu
+Faculty Name: Shaikh Shawon Arefin Shimon
+Faculty Initial: SAS3
+Semester: Spring 2019
+Section: 4
+Group: 5 
+Project: Find a Doc 
 
-1521601042	Arafat Hossain	hossain.arafat@northsouth.edu
+Group Members: 
+1.Arshi Siddiqui Promiti
+ID: 1611236042
+2.Mousfiqul Islam Khan
+ID: 1521402642
+3.Arafat Hossain
+ID: 1521601042
 
-1611236042	Arshi Siddiqui Promiti	siddiqui.promiti@northsouth.edu
 
 Project name: Find a Doc
 
@@ -14,8 +24,6 @@ Just Login-in choose the symptom which best fits your condition and the site wil
 doctors closest to your location with their profile and all the appropriate information, and then you can set 
 up an appointment with a doctor of your choice. 
 
-1) Github Project link: https://github.com/nsuspring2019cse299sec4/Group-5
+Technologies used: 
+For project management purpose, GitHub was used as the repository, Trello board to keep track of the work, and slack channel for communication. Trello board was powered up with Team Gantt. For the front end development of the web application, HTML, CSS, Bootstrap and Java script was used. For the back end development, we used python and Django and for the database SQL Lite was used. Sublime text was used as a text editor. 
 
-2) Trello Board Link: https://trello.com/b/Yp0KdI4d/findadoc
-
-3) Slack Channel Link: https://cse299section4-group5.slack.com/
